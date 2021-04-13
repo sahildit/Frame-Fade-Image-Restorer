@@ -17,5 +17,6 @@ Approach
 
 7 - Hardcoded
 
-![Capture](https://user-images.githubusercontent.com/47186806/114579416-bcf1c500-9c75-11eb-8ae4-f7402cc73aa6.PNG)
 ![Faded (2)](https://user-images.githubusercontent.com/47186806/114579442-c3803c80-9c75-11eb-9401-8a4f4253cddf.jpg)
+![Capture](https://user-images.githubusercontent.com/47186806/114579416-bcf1c500-9c75-11eb-8ae4-f7402cc73aa6.PNG)
+
